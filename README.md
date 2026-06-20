@@ -26,7 +26,7 @@ YouTube creator comment analytics platform
 | :---: | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/d8b5b154-21d2-44b4-9935-efe0df094060" width="140" height="170" alt="김미혜"/> | <img src="https://github.com/user-attachments/assets/be8e535a-3345-48b8-bbd4-843e1e7c4148" width="140" height="170" alt="강다빈"/> | <img src="https://github.com/user-attachments/assets/427ffee9-3d6b-4ced-ad4c-c59d13628492" width="140" height="170" alt="김소정"/> |
 | Full-Stack Development<br>(FE/BE 개발 전반 참여) | Full-Stack Development<br>(FE/BE 개발 전반 참여) | Full-Stack Development<br>(FE/BE 개발 전반 참여) |
-|  <b>AnalysisService</b> 모듈 중점 개발<br>(AI 모델 연동, 댓글 감성 분석 및 범주화 파이프라인 구현) | <b>AutoProcessor</b> 모듈 중점 개발<br>(유튜브 API 연동 및 데이터 자동 수집 파이프라인 구축) | <b>ViewService (Front/Back)</b> 중점 개발<br>(사용자 UI/UX 시각화 및 웹 서비스 백엔드 구현) |
+|  <b>AnalysisService</b> 모듈 중점 개발<br>(AI 모델 연동, 댓글 감성 분석 및 범주화 파이프라인 구현) | <b>AutoProcessor</b> 모듈 중점 개발,<br>서버 구축 및 배포 자동화<br>(유튜브 API 연동 및 데이터 자동 수집 파이프라인 구축) | <b>ViewService (Front/Back)</b> 중점 개발<br>(사용자 UI/UX 시각화 및 웹 서비스 백엔드 구현) |
 
 
 
